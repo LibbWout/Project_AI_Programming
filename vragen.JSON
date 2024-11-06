@@ -1,0 +1,5 @@
+[
+    {"type": "multiple_choice", "vraag": "Wat is de hoofdstad van Frankrijk?", "opties": ["Parijs", "Londen", "Berlijn"], "antwoord": "Parijs"},
+    {"type": "waar_niet_waar", "vraag": "De aarde is plat.", "antwoord": false},
+    {"type": "open", "vraag": "Wie schreef Hamlet?", "antwoord": "William Shakespeare"}
+]
