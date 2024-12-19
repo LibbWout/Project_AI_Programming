@@ -1,5 +1,303 @@
 [
-    {"type": "multiple_choice", "vraag": "Wat is de hoofdstad van Frankrijk?", "opties": ["Parijs", "Londen", "Berlijn"], "antwoord": "Parijs"},
-    {"type": "waar_niet_waar", "vraag": "De aarde is plat.", "antwoord": false},
-    {"type": "open", "vraag": "Wie schreef Hamlet?", "antwoord": "William Shakespeare"}
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is de hoofdstad van Duitsland?",
+        "opties": [
+            "Berlijn",
+            "Parijs",
+            "Rome"
+        ],
+        "antwoord": "Berlijn"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Vissen kunnen ademen onder water.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Wie schilderde de Mona Lisa?",
+        "antwoord": "Leonardo da Vinci"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is de kleinste planeet in ons zonnestelsel?",
+        "opties": [
+            "Mercurius",
+            "Mars",
+            "Venus"
+        ],
+        "antwoord": "Mercurius"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Een jaar op Mars is korter dan een jaar op Aarde.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is het symbool voor goud in het periodiek systeem?",
+        "antwoord": "Au"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welke kleur krijg je als je blauw en geel mengt?",
+        "opties": [
+            "Groen",
+            "Oranje",
+            "Paars"
+        ],
+        "antwoord": "Groen"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Het smeltpunt van ijs is 0 graden Celsius.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel poten heeft een spin?",
+        "antwoord": "8"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welk land staat bekend om de Taj Mahal?",
+        "opties": [
+            "India",
+            "China",
+            "Thailand"
+        ],
+        "antwoord": "India"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Zuid-Afrika heeft drie hoofdsteden.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel uur zitten er in een week?",
+        "antwoord": "168"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is de grootste oceaan ter wereld?",
+        "opties": [
+            "Stille Oceaan",
+            "Atlantische Oceaan",
+            "Indische Oceaan"
+        ],
+        "antwoord": "Stille Oceaan"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "De Kilimanjaro bevindt zich in Azi\u00c3\u00ab.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel tanden heeft een volwassen mens normaal gesproken?",
+        "antwoord": "32"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wie ontdekte zwaartekracht volgens de legende?",
+        "opties": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "antwoord": "Isaac Newton"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Een vierkant heeft vier zijden van ongelijke lengte.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "In welk jaar begon de Tweede Wereldoorlog?",
+        "antwoord": "1939"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is het nationale dier van Australi\u00c3\u00ab?",
+        "opties": [
+            "Kangoeroe",
+            "Koala",
+            "Emoe"
+        ],
+        "antwoord": "Kangoeroe"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "De mens heeft meer dan 600 spieren.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel planeten zijn er in ons zonnestelsel?",
+        "antwoord": "8"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wie schreef 'Pride and Prejudice'?",
+        "opties": [
+            "Jane Austen",
+            "Emily Bront\u00c3\u00ab",
+            "Charlotte Bront\u00c3\u00ab"
+        ],
+        "antwoord": "Jane Austen"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Het Empire State Building staat in Chicago.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is de chemische formule voor water?",
+        "antwoord": "H2O"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welk gas ademen mensen in?",
+        "opties": [
+            "Zuurstof",
+            "Koolstofdioxide",
+            "Stikstof"
+        ],
+        "antwoord": "Zuurstof"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Een slak kan zijn huis verlaten.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel sterren staan er op de vlag van de Verenigde Staten?",
+        "antwoord": "50"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is de hoofdstad van Spanje?",
+        "opties": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla"
+        ],
+        "antwoord": "Madrid"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Een octopus heeft drie harten.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is de snelheid van het licht in een vacu\u00c3\u00bcm (in m/s)?",
+        "antwoord": "299792458"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is het hoogste gebergte ter wereld?",
+        "opties": [
+            "Himalaya",
+            "Andes",
+            "Rocky Mountains"
+        ],
+        "antwoord": "Himalaya"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "De aarde draait om de maan.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is de hoofdstad van Noorwegen?",
+        "antwoord": "Oslo"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welke taal wordt in Brazili\u00c3\u00ab gesproken?",
+        "opties": [
+            "Portugees",
+            "Spaans",
+            "Engels"
+        ],
+        "antwoord": "Portugees"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Een mens heeft vijf zintuigen.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is de grootste woestijn ter wereld?",
+        "antwoord": "Sahara"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welke planeet staat het dichtst bij de zon?",
+        "opties": [
+            "Mercurius",
+            "Venus",
+            "Mars"
+        ],
+        "antwoord": "Mercurius"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Bloed is rood door hemoglobine.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel continenten zijn er op aarde?",
+        "antwoord": "7"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Wat is het grootste land ter wereld qua oppervlakte?",
+        "opties": [
+            "Rusland",
+            "Canada",
+            "China"
+        ],
+        "antwoord": "Rusland"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Haaien zijn zoogdieren.",
+        "antwoord": false
+    },
+    {
+        "type": "open",
+        "vraag": "Wat is de naam van het langste rivier ter wereld?",
+        "antwoord": "Amazone"
+    },
+    {
+        "type": "multiple_choice",
+        "vraag": "Welk getal is een priemgetal?",
+        "opties": [
+            "13",
+            "14",
+            "15"
+        ],
+        "antwoord": "13"
+    },
+    {
+        "type": "waar_niet_waar",
+        "vraag": "Het noordelijk halfrond heeft meer landmassa dan het zuidelijk halfrond.",
+        "antwoord": true
+    },
+    {
+        "type": "open",
+        "vraag": "Hoeveel minuten zitten er in een dag?",
+        "antwoord": "1440"
+    }
+  
 ]
